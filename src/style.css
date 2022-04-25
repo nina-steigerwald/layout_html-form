@@ -1,1 +1,9 @@
+/* stylelint-disable indentation */
 /* styles go here */
+.fieldset {
+  margin-bottom: 30px;
+}
+
+.fieldset div:not(:last-child) {
+  margin-bottom: 10px;
+}
