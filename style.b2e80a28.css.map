@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAEA,UACE,kBACF,CAEA,+BACE,kBACF","file":"style.b2e80a28.css","sourceRoot":"../src","sourcesContent":["/* stylelint-disable indentation */\n/* styles go here */\n.fieldset {\n  margin-bottom: 20px;\n}\n\n.fieldset div:not(:last-child) {\n  margin-bottom: 10px;\n}\n"]}
